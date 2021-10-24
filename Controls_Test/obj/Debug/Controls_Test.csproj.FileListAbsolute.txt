@@ -1,0 +1,10 @@
+D:\dev\C#Work\Controls_Test\Controls_Test\bin\Debug\Controls_Test.exe.config
+D:\dev\C#Work\Controls_Test\Controls_Test\bin\Debug\Controls_Test.exe
+D:\dev\C#Work\Controls_Test\Controls_Test\bin\Debug\Controls_Test.pdb
+D:\dev\C#Work\Controls_Test\Controls_Test\obj\Debug\Controls_Test.csprojAssemblyReference.cache
+D:\dev\C#Work\Controls_Test\Controls_Test\obj\Debug\Controls_Test.Properties.Resources.resources
+D:\dev\C#Work\Controls_Test\Controls_Test\obj\Debug\Controls_Test.csproj.GenerateResource.cache
+D:\dev\C#Work\Controls_Test\Controls_Test\obj\Debug\Controls_Test.csproj.CoreCompileInputs.cache
+D:\dev\C#Work\Controls_Test\Controls_Test\obj\Debug\Controls_Test.exe
+D:\dev\C#Work\Controls_Test\Controls_Test\obj\Debug\Controls_Test.pdb
+D:\dev\C#Work\Controls_Test\Controls_Test\obj\Debug\Controls_Test.Form1.resources
